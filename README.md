@@ -74,7 +74,7 @@ npm -v
 ### 2. 获取项目
 
 ```powershell
-git clone https://github.com/PTrump/shemical-srocess-studio.git
+git clone https://github.com/evangel2022/shemical-srocess-studio.git
 cd shemical-srocess-studio
 ```
 
